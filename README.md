@@ -1,16 +1,19 @@
-### Hi there 👋
+## Dnomd343
 
-<!--
-**dnomd343/dnomd343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
++ 🎓 South China University of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ ⚡ Electronic Materials Engineering
+
++ 🧱 Amateur developer
+
++ ✒️ Dnomd343's [Blog](https://blog.dnomd343.top/)
+
+![](https://github-readme-stats.vercel.app/api?username=dnomd343&count_private=true&hide=prs&show_icons=true&include_all_commits=true&theme=onedark)
+
+### Contact
+
++ Email： `i@343.re`
+
++ Telegram：[`@dnomd343`](https://t.me/dnomd343)
