@@ -10,10 +10,10 @@
 
 + ✒️ Dnomd343's [Blog](https://blog.dnomd343.top/)
 
-![](https://github-readme-stats.vercel.app/api?username=dnomd343&count_private=true&hide=prs&show_icons=true&include_all_commits=true&theme=onedark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dnomd343&count_private=true&hide=prs&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/dnomd343)
 
 ### Contact
 
-+ Email： `i@343.re`
++ Email： [`i@343.re`](mailto:i@343.re)
 
 + Telegram：[`@dnomd343`](https://t.me/dnomd343)
